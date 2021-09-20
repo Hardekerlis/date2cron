@@ -1,0 +1,11 @@
+{
+  "name": "date2cron",
+  "version": "0.0.1",
+  "description": "Convert a date object to cron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
