@@ -1,6 +1,6 @@
 {
   "name": "date2cron",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Convert a date object to cron",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
